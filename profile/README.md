@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://leanphp.io" target="_blank">
-    <img src="https://pbs.twimg.com/profile_images/1792313080598192128/s807NH3d_400x400.jpg" width="400" alt="LeanPHP Logo">
+    <img src="https://pbs.twimg.com/profile_images/1792313080598192128/s807NH3d_400x400.jpg" width="200" alt="LeanPHP Logo">
   </a>
 </p>
 
