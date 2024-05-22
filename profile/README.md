@@ -94,11 +94,24 @@ These comparisons and comments were prepared to highlight the advantages of Lean
 
 *This table and the accompanying commentary were prepared and authored by Nova, an AI language model assistant.*
 
-## Support Us
+## Contributing
 
-We love our contributors and supporters! If you'd like to contribute financially, please visit our [GitHub Sponsors](https://github.com/sponsors/leanphp) page or our [Patreon](https://patreon.com/leanphp).
-Alternatively, you can make a one-time donation via [Buy Me a Coffee](https://www.buymeacoffee.com/leanphp).
-We are proud to see LeanPHP in action in such varied industries!
+We welcome contributions from the community to improve and enhance LeanPHP. Whether you're a developer, designer, or documentation enthusiast, there are many ways to get involved:
+
+- Report bugs and issues
+- Suggest new features and enhancements
+- Submit pull requests with code improvements
+- Help improve documentation and tutorials
+
+For more information on how to contribute, see the [Contribution Guidelines](contribution-guidelines.md).
+
+## Resources
+
+- [Official Website](https://leanphp.io/)
+- [GitHub Repository](https://github.com/leanphp-projects/leanphp)
+- [Documentation](https://leanphp.io/leanphp-projects/)
+
+Start coding with LeanPHP and save time building your PHP projects!
 
 ## Join Our Community
 
