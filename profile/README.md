@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="150" src="https://pbs.twimg.com/profile_images/1792313080598192128/s807NH3d_400x400.jpg" />
+  <img height="150" src="https://avatars.githubusercontent.com/u/168634137?s=400&u=08c120edfc09003df73fa49cfee80547e2b849f1&v=4" />
 </div>
 <br><br>
 <h1 align="center">ngphp | Next Generation PHP Framework 👋</h1>
