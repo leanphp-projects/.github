@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/168634137?s=400&u=08c120edfc09003df73fa49cfee80547e2b849f1&v=4" />
-</div>
+# ngphp
 <br><br>
 <h1 align="center">ngphp | Next Generation PHP Framework 👋</h1>
 <br><br>
@@ -19,6 +17,32 @@
 
 ngphp is a next-generation, lightweight PHP framework designed for rapid web application development. It’s optimized for modern cloud environments where speed, performance, and size matter.
 
+### Language and tools
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+</div>
+
 ### Key Features
 
 - **Agile and Lean:** Ideal for rapid MVP development with minimal setup.
@@ -26,6 +50,12 @@ ngphp is a next-generation, lightweight PHP framework designed for rapid web app
 - **Integrated Core Features:** Built-in error handling, logging, email, JWT authentication, and more.
 - **Minimalist Architecture:** Lightweight and efficient, reducing resource usage.
 - **RESTful API Support:** Robust and easy-to-use API creation.
+
+### Mission
+Our mission is to provide a lightweight, easy-to-use PHP framework that helps developers and startups quickly bring their ideas to life. We believe in simplicity, efficiency, and delivering value without unnecessary complexity.
+
+### Vision
+We envision a world where developers can focus on building innovative solutions without being bogged down by complex setups and configurations. LeanPHP aims to be the go-to framework for rapid development and agile methodologies.
 
 ### Why ngphp?
 
@@ -35,6 +65,7 @@ In today’s digital transformation era, the speed of development, application p
 - **Performance:** High-speed execution and low resource consumption.
 - **Flexibility:** Adaptable for both simple web apps and complex APIs.
 - **Community and Support:** Active community with professional support options.
+
 
 ## Comparison with Other Frameworks
 
