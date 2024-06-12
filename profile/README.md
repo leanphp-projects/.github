@@ -1,7 +1,4 @@
-
-# ngphp
-<br><br>
-<h1 align="center">ngphp | Next Generation PHP Framework 👋</h1>
+<h1 align="center">NGPHP | Next Generation PHP Framework</h1>
 <br><br>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="patreon logo" />
@@ -13,9 +10,9 @@
 </div>
 <br><br>
 
-## About ngphp
+## About NGPHP
 
-ngphp is a next-generation, lightweight PHP framework designed for rapid web application development. It’s optimized for modern cloud environments where speed, performance, and size matter.
+NGPHP is a next-generation, lightweight PHP framework designed for rapid web application development. It’s optimized for modern cloud environments where speed, performance, and size matter.
 
 ### Language and tools
 
@@ -57,7 +54,7 @@ Our mission is to provide a lightweight, easy-to-use PHP framework that helps de
 ### Vision
 We envision a world where developers can focus on building innovative solutions without being bogged down by complex setups and configurations. LeanPHP aims to be the go-to framework for rapid development and agile methodologies.
 
-### Why ngphp?
+### Why NGPHP?
 
 In today’s digital transformation era, the speed of development, application performance, and resource efficiency are crucial. ngphp addresses these needs by offering:
 
